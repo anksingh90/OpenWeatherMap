@@ -1,0 +1,13 @@
+name = "weather-dashboard"
+type = "javascript" # Use "module" if you're using ES modules
+account_id = "e88632aaffcdc561e71b2aa9c33ef19c" # Replace with your Account ID
+workers_dev = true
+compatibility_date = "2025-03-25" # Add today's date
+
+# Specify the entry point for your Worker script
+main = "src/index.js"
+
+# Add your custom domain route
+routes = [
+  { pattern = "duckgo.eu.org/weather", script = "weather-dashboard" }
+]

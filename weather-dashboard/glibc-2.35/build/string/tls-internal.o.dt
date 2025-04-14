@@ -1,0 +1,18 @@
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/string/tls-internal.o: \
+ ../sysdeps/unix/sysv/linux/tls-internal.c ../include/stdc-predef.h \
+ /workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/config.h:
+
+../sysdeps/generic/libc-symver.h:
+
+../sysdeps/generic/symbol-hacks.h:

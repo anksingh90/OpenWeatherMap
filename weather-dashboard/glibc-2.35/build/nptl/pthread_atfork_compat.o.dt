@@ -1,0 +1,26 @@
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/nptl/pthread_atfork_compat.o: \
+ ../sysdeps/pthread/pthread_atfork_compat.c ../include/stdc-predef.h \
+ /workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h \
+ ../sysdeps/nptl/pthread_atfork_compat.h ../include/shlib-compat.h \
+ /workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/abi-versions.h
+
+../include/stdc-predef.h:
+
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/config.h:
+
+../sysdeps/generic/libc-symver.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../sysdeps/nptl/pthread_atfork_compat.h:
+
+../include/shlib-compat.h:
+
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/abi-versions.h:

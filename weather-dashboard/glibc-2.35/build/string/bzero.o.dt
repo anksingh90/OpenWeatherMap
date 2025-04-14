@@ -1,0 +1,21 @@
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/string/bzero.o: \
+ ../sysdeps/x86_64/bzero.S ../include/stdc-predef.h \
+ /workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/cet.h
+
+../include/stdc-predef.h:
+
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/workspaces/OpenWeatherMap/weather-dashboard/glibc-2.35/build/config.h:
+
+../sysdeps/generic/libc-symver.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/cet.h:

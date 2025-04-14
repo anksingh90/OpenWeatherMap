@@ -1,0 +1,17 @@
+.
+├── README.md
+├── open
+├── output.txt
+└── weather-dashboard
+    ├── README.md
+    ├── package.json
+    ├── src
+    │   ├── api
+    │   │   └── weather.js
+    │   ├── index.js
+    │   └── views
+    │       └── dashboard.html
+    ├── wrangler.jsonc
+    └── wrangler.toml
+
+5 directories, 9 files
